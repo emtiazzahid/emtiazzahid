@@ -8,4 +8,4 @@
 
 [![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=emtiazzahid&hide=commits&show_icons=true&theme=default)](https://www.guanguans.cn)
 
-![](https://komarev.com/ghpvc/?username=emtiazzahid&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=10188029)
